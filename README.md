@@ -1,2 +1,2 @@
 # Algorithmic-Trading
-Stock price prediction
+Trading prediction
