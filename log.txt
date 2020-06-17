@@ -1,0 +1,51 @@
+06-10 21:10 werkzeug     INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:18] "GET / HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:18] "GET /js/scripts.js HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:18] "GET /static/assets/img/g.foolcdn.com.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/assets/img/demo-image-01.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/assets/img/demo-image-02.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/assets/img/demo-image-0.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/assets/img/bg-masthead.jpg HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/assets/img/bg-signup.jpg HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/bull.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /js/scripts.js HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:19] "GET /static/assets/img/favicon.ico HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /menu HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /static/assets/css/bootstrap.min.css HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /sticky-footer.css HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /static/ACN1.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /static/escort.png HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /static/infy1.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /static/orcl.jpg HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:24] "GET /static/cog.jpg HTTP/1.1" 200 -
+06-10 21:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:10 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5ENSEI?p=%5ENSEI HTTP/1.1" 200 None
+06-10 21:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:10 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5EIXIC?p=%5EIXIC HTTP/1.1" 200 None
+06-10 21:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:10 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5EHSI?p=%5EHSI HTTP/1.1" 200 None
+06-10 21:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:10 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5EN225?p=%5EN225 HTTP/1.1" 200 None
+06-10 21:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:10 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/ESCORTS.NS?p=ESCORTS.NS&.tsrc=fin-srch HTTP/1.1" 200 None
+06-10 21:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:10 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/ACN?p=ACN&.tsrc=fin-srch HTTP/1.1" 200 None
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:54] "GET /ACN HTTP/1.1" 200 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:54] "GET /sticky-footer.css HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:54] "GET /dist/css/bootstrap.min.css HTTP/1.1" 404 -
+06-10 21:10 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:10:54] "GET /static/curve2.jpg HTTP/1.1" 200 -
+06-10 21:11 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:11:03] "GET /favicon.ico HTTP/1.1" 404 -
+06-10 21:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:19 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5ENSEI?p=%5ENSEI HTTP/1.1" 200 None
+06-10 21:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:19 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5EIXIC?p=%5EIXIC HTTP/1.1" 200 None
+06-10 21:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:19 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5EHSI?p=%5EHSI HTTP/1.1" 200 None
+06-10 21:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:19 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/%5EN225?p=%5EN225 HTTP/1.1" 200 None
+06-10 21:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): in.finance.yahoo.com:443
+06-10 21:19 urllib3.connectionpool DEBUG    https://in.finance.yahoo.com:443 "GET /quote/ESCORTS.NS?p=ESCORTS.NS&.tsrc=fin-srch HTTP/1.1" 200 None
+06-10 21:19 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:19:54] "GET /auto HTTP/1.1" 200 -
+06-10 21:19 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:19:54] "GET /dist/css/bootstrap.min.css HTTP/1.1" 404 -
+06-10 21:19 werkzeug     INFO     127.0.0.1 - - [10/Jun/2020 21:19:54] "GET /sticky-footer.css HTTP/1.1" 404 -
